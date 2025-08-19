@@ -14,7 +14,6 @@ This project provides an interactive and visually appealing way to understand th
 - **Built-in Help Screen**: Provides clear instructions if run without parameters.
 
 ## 🎬 Demo
-## 🎬 Demonstração
 
 ![Monty Hall Demo](montyhall_demo.svg)
 
