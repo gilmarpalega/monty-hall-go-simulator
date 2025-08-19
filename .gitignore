@@ -1,0 +1,5 @@
+template.xml
+config.json
+*.cast
+.DS_Store
+Thumbs.db
